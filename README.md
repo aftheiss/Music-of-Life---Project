@@ -48,7 +48,7 @@ Visualizing relative "popularity" of genres over time. This appears to be useles
 
 To answer the first question, we condensed the overwhelming amount of genres spotify had in the data to more generalized genres
 
-![MusicPies](MusicPies.png)
+![MusicPies](Resources/MusicPies.png)
 
 
 we then took some of our measurables and applied it to the same 
