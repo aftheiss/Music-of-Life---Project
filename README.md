@@ -53,11 +53,11 @@ To answer the first question, we condensed the overwhelming amount of genres spo
 
 we then took some of our measurables and applied it to the same 
 
-![Acousticness by Genre](Output/Resources/GenreAcousticness.png)
+![Acousticness by Genre](Resources/GenreAcousticness.png)
 
-![Instrumentalness by Genre](Output/Resources/GenreInstrumentalness.png)
+![Instrumentalness by Genre](Resources/GenreInstrumentalness.png)
 
-![Danceability by Genre]("Resources/GenreDanceability.png")
+![Danceability by Genre](Resources/GenreDanceability.png)
 
 
 
@@ -73,7 +73,7 @@ Acoustic denotes the level of not having electrical amplification.  we used the 
 
 Instrumental denotes the amount of vocals in a song.  we used the same scale from 0 to 1 as above. 
 
-![attributes]("Resources/Sound_Atributes_Over_Time.png")
+![attributes](images/Sound_Atributes_Over_Time.png)
 
 
 ### Has music become more explicit between 1990 to 2020 ?
