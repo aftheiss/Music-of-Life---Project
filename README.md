@@ -80,7 +80,7 @@ Instrumental denotes the amount of vocals in a song.  we used the same scale fro
 
 Explicit describes the lyrical grammar quality.
 
-![explicitness]("Explicitness.png")
+![explicitness](Resources/Explicitness.png)
  
 
 
